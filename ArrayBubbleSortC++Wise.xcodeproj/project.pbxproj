@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D2EB015A223AB70700D4EA42 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D2EB0159223AB70700D4EA42 /* main.cpp */; };
+		D2EB0161223AB71000D4EA42 /* ArrayBubbleOrderSort.cc in Sources */ = {isa = PBXBuildFile; fileRef = D2EB0160223AB71000D4EA42 /* ArrayBubbleOrderSort.cc */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		D2EB0156223AB70700D4EA42 /* ArrayBubbleSortC++Wise */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "ArrayBubbleSortC++Wise"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D2EB0159223AB70700D4EA42 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		D2EB0160223AB71000D4EA42 /* ArrayBubbleOrderSort.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ArrayBubbleOrderSort.cc; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		D2EB0158223AB70700D4EA42 /* ArrayBubbleSortC++Wise */ = {
 			isa = PBXGroup;
 			children = (
-				D2EB0159223AB70700D4EA42 /* main.cpp */,
+				D2EB0160223AB71000D4EA42 /* ArrayBubbleOrderSort.cc */,
 			);
 			path = "ArrayBubbleSortC++Wise";
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D2EB015A223AB70700D4EA42 /* main.cpp in Sources */,
+				D2EB0161223AB71000D4EA42 /* ArrayBubbleOrderSort.cc in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
